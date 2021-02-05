@@ -1,4 +1,4 @@
 Matris hesaplayıcı kullanımı için ;
-202106102002_UMUT_ER_BUTUNLEME , 202106102002_UMUT_ER_BUTUNLEME_TXTYAPMA adlı kodları github üzerinden temin ediyoruz.
+202106102002_UMUT_ER_BUTUNLEME , 202106102002_UMUT_ER_BUTUNLEME_TXTYAPMA adlı kodları github üzerinden temin ediyoruz ve ikisinide aynı dizine atıyoruz.
 202106102002_UMUT_ER_BUTUNLEME_TXTYAPMA bu dosya da yer alan kodlarla A(5X5) matrisimizi ve B(1X5) girip txt dosyalarımızı oluşturmasını sağlıyoruz.
 202106102002_UMUT_ER_BUTUNLEME adında yer alan kodu çalıştırarak ekrana gelen menüyle istediğimiz hesaplama işlemimizi yapıyoruz.
